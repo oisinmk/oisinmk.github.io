@@ -1,2 +1,2 @@
 # oisinmk.github.io
-(https://oisinmk.github.io/oisinmk/index.html) 
+(https://oisinmk.github.io/oisinmk/github.io/index.html) 
