@@ -1,0 +1,508 @@
+
+ *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+
+@import url(https://fonts.googleapis.com/css?family=Lato:300);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+
+body
+
+
+
+
+
+{
+   
+   
+
+    font-size: 85%;
+    
+ width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+
+
+
+h1 {
+    margin-top: 3.5em;
+    
+   font-family: 'Raleway', sans-serif;
+    
+font-family: 'Raleway', sans-serif;
+ font-size: 1.8em;
+ line-height: 1.2em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:85%;
+    padding-left: 53%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    color: black;
+    letter-spacing: 2px;
+     word-spacing: 5px;
+     
+    
+}
+
+
+#monogram
+{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+  margin-left: 43%;
+   
+    padding-top: 3%;
+     
+}
+
+
+
+#bqstart
+{
+  
+margin-top: 16em;
+ font-family: 'Lato', sans-serif;
+ font-size: 2.5em;
+ line-height: 1.8em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:70%;
+    padding-left: 30%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: thin;
+    color: black;
+    letter-spacing: 2px;
+     word-spacing: 5px;
+
+}
+
+
+#bqstart1
+{
+  
+margin-top: 22em;
+ font-family: 'Lato', sans-serif;
+ font-size: 2em;
+ line-height: 1.8em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:70%;
+    padding-left: 30%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: thin;
+    color: black;
+    letter-spacing: 2px;
+     word-spacing: 5px;
+
+}
+
+
+
+
+
+
+blockquote cite
+{
+    font-size: 0.75em;
+    
+
+
+
+
+}
+
+
+#p1
+{
+    
+    
+  padding-top: 15em;
+font-family: 'Lato', sans-serif;
+ font-size: 1.8em;
+ line-height: 1.6Em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:60%;
+    padding-left: 30%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    color: black;
+    letter-spacing: 3px;
+     word-spacing: 6px;
+     
+    
+}
+
+#p2
+{
+    
+    
+   
+padding-top: 12EM;
+font-family: 'Lato', sans-serif;
+ font-size: 1.5em;
+ line-height: 40px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:40%;
+    padding-left: 30%;
+   
+   
+   text-align: left;
+    
+    font-weight: thin;
+    color: black;
+    letter-spacing: 2px;
+    
+     word-spacing: 5px;
+     
+    
+}
+
+
+#port-header
+{
+     
+      font-family: 'Raleway', sans-serif;
+       margin-top: 5em;
+
+ font-size: 1.8em;
+ line-height: 1.2em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:45%;
+    padding-left: 52%;
+  
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    color: black;
+    letter-spacing: 2px;
+     word-spacing: 5px;
+     
+    
+    
+    
+    
+}
+
+
+#port-header1
+{
+     
+      font-family: 'Raleway', sans-serif;
+       
+
+ font-size: 1.8em;
+ line-height: 1.2em;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:45%;
+  
+   
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    color: black;
+    letter-spacing: 2px;
+     word-spacing: 5px;
+     
+    
+    
+    
+    
+}
+
+
+
+
+
+
+.hoverbox{
+cursor: default;
+list-style:none;
+position: relative;
+    border-style: none;
+   
+    float: left;
+    width: %;
+    
+}
+
+.hoverbox a{
+cursor: default;
+}
+
+.hoverbox a .preview{
+display:none;
+}
+
+.hoverbox a:hover .preview{
+display:block;
+position: absolute;
+top: -330px;
+left: -45px;
+z-index:1;
+}
+
+/*----change below to make smaller/larger */
+
+.hoverbox img{
+background:#fff;
+
+color:inherit;
+padding: 2px;
+vertical-align:top;
+width:100px;
+}
+
+
+.hoverbox li{
+background color:#eee;
+
+color:inherit;
+display:inline;
+float:left;
+margin:3px;
+padding:5px;
+position:relative;
+}
+
+
+.hoverbox .preview{
+
+width:700px;
+}
+
+.hoverbox a{
+position:relative;
+}
+
+
+.hoverbox a:hover{
+
+font-size:100%;
+z-index:1;
+}
+
+.hoverbox a:hover .preview{
+top: -38px;
+left: -50px;
+}
+
+
+hoverbox li{
+position:static;
+}
+
+
+
+
+
+
+.section-1
+    
+        
+        
+      {
+        ;
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 10em;
+        max-width: 85%;
+          height: 650px;
+           
+        }
+
+.section-2
+ {
+        ;
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 10em;
+        max-width: 85%;
+          height: 650px;
+     @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+       
+        }
+.section-3
+ {
+        ;
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 10em;
+        max-width: 85%;
+          height: 650px;
+      
+        }
+
+.section-4
+ {
+        ;
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 2em;
+        max-width: 85%;
+          height: 3em;
+     
+        }
+
+.section-5
+ {
+        
+          
+        
+       max-width: 100%;
+          height: 800px;
+     margin-left: 25%;
+margin-right: 10%;
+     
+        }
+
+
+
+
+.section-6
+ {
+        ;
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 2em;
+        max-width: 85%;
+          height: 3em;
+    
+        }
+
+
+.section-7
+ {
+       
+          margin-top:1em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 2em;
+        max-width: 85%;
+          height: 3em;
+     margin-left: 40em;
+
+        }
+
+
+.navvy
+         
+{position: fixed; top: 0px; left: 33%; z-index: 444;width:100%}
+            
+{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 85%;
+    
+    
+    
+    
+    
+}
+
+li {
+    
+    float: left;
+    margin-left: 5em;
+     list-style-type:none;
+     
+    
+    
+   
+    
+}
+
+li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: raleway, sans-serif;
+    font-size: 12px;
+  font-weight: thin;
+}
+
+li a:hover {
+    background-color: #C9C9C9;
+}
+
+img.desaturate { 
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+    
+}
+img.desaturate:hover { -webkit-filter: grayscale(1%); filter: grayscale(0%); transition-duration: .8s; 
+
+}
+
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+	opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+ 
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+ 
+	-webkit-animation-duration:2s;
+	-moz-animation-duration:2s;
+	animation-duration:2s;
+}
+
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
