@@ -1,4 +1,3 @@
-# oisinmk.github.io
-
-(https://oisinmk.github.io/)
-(https://oisinmk.github.io/oisinmk.github.io/index.html) 
+#oisinmk.github.io
+<<<<<<< HEAD
+(www.oisinmckeever.com)
