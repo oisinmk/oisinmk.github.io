@@ -503,6 +503,18 @@ position:static;
     margin-right:auto;
     width:100%;
    
+     
+       position: relative;
+
+    margin-left: auto;
+    margin-right:auto;
+    
+   display: inline block;
+    
+  
+  
+    
+    width: 65%;
         }
 
 
